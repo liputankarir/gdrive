@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "url": "http://example.com/image1.jpeg",
+      "path": "folder/image1.jpeg"
+    },{
+      "url": "http://example.com/file.txt",
+      "path": "file.txt"
+    }
+  ],
+  "options": {
+    "removeTemp": true
+  },
+  "drive": {
+    "parent_id": ""
+  }
+}
